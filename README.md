@@ -23,5 +23,5 @@
   <div> 
   <a href="https://www.instagram.com/brennomeerces/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=blueviolet" target="_blank"></a>
   <a href="mailto:brennomeerces@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blueviolet" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brenno-mercees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&lo go=linkedin&logoColor=blueviolet" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brenno-mercees/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23333.svg?&style=for-the-badge&logo=linkedin&logoColor=blueviolet" target="_blank"></a>
 </div>
