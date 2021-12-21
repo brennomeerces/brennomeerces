@@ -1,4 +1,4 @@
-### Olá, meu nome é Brenno Mercês. Desativei meu outro git e estou iniciando projetos do zero. 😜
+### Olá, meu nome é Brenno Mercês. 😜
 
 <div align="center">
   <a href="https://github.com/brennomeerces">
