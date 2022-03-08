@@ -1,4 +1,4 @@
-### Olá, meu nome é Brenno Mercês. 😜 (git antigo)
+### Olá, meu nome é Brenno Mercês. 😜 (git antigo, uso apenas para clone)
 
 <div align="center">
   <a href="https://github.com/brennomeerces">
